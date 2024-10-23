@@ -10,11 +10,11 @@
 @font-face {
     font-family: TTNorms-bold;
     font-weight: 700;
-    src: url(/Doordash/font/TTNorms-Bold\ \(1\).woff2);
+    src: url(/font/TTNorms-Bold\ \(1\).woff2);
 }
 @font-face {
     font-family: TTNorms-medium;
-    src: url(/Doordash/font/TTNorms-Medium\ \(1\).woff2);
+    src: url(/font/TTNorms-Medium\ \(1\).woff2);
 }
 h2,h1{
     font-family: TTNorms-bold;
@@ -94,7 +94,7 @@ input{
 
 }
 .banner{
-    background-image: url(/Doordash/images/hero_desktop\ \(2\).png);
+    background-image: url(/images/hero_desktop\ \(2\).png);
     background-size: cover;
     height: 650px;
     background-position: center center;
@@ -998,7 +998,7 @@ grid-area: 2/3;
     
 }
 .hand{
-    background-image: url("/Doordash/pics/grocery_desktop.avif ");
+    background-image: url("/pics/grocery_desktop.avif ");
     background-size: cover;
     height: 350px;
     position: relative;
